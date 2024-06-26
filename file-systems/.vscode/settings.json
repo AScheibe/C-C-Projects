@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/richik/cs537/p7",
+            "binaryPath": "/home/richik/cs537/p7/runscan",
+            "binaryArgs": ["disk_images/image-02", "output"]
+        }
+    ]
+}
