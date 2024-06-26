@@ -1,7 +1,0 @@
-runscan
-output/
-.__afs*
-distractor_files/
-jpg_images/
-test_disk_images/
-runtests.log
